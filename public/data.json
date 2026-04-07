@@ -2,29 +2,31 @@
   {
     "id": 1,
     "name": "Virat Kohli",
-    "image": "https://randomuser.me/api/portraits/men/11.jpg",
+    "image": "https://i.ibb.co.com/JwDxVwhh/mhniosh8z6y6ouwfhnns.avif",
     "country": "India",
     "role": "Batsman",
     "rating": 95,
     "battingStyle": "Right-Hand-Bat",
+    "blowingStyle": "Right-Arm-Bowling",
     "price": 1500000,
     "isSelected": false
   },
   {
     "id": 2,
     "name": "Rohit Sharma",
-    "image": "https://randomuser.me/api/portraits/men/12.jpg",
+    "image": "https://i.ibb.co.com/7tYmTNPF/Rohit-Sharma-after-his-ton-in-the-second-ODI-vs-England.jpg",
     "country": "India",
     "role": "Batsman",
     "rating": 93,
     "battingStyle": "Right-Hand-Bat",
+
     "price": 1400000,
     "isSelected": false
   },
   {
     "id": 3,
     "name": "Babar Azam",
-    "image": "https://randomuser.me/api/portraits/men/13.jpg",
+    "image": "https://i.ibb.co.com/7xNmLYCx/Babar-Azam.webp",
     "country": "Pakistan",
     "role": "Batsman",
     "rating": 92,
@@ -35,22 +37,24 @@
   {
     "id": 4,
     "name": "Ben Stokes",
-    "image": "https://randomuser.me/api/portraits/men/14.jpg",
+    "image": "https://i.ibb.co.com/wZNdBt6S/Ben-Stokes-England-cricket-team-celebrates-Test-match-win-August-2019.webp",
     "country": "England",
     "role": "All-Rounder",
     "rating": 90,
     "battingStyle": "Left-Hand-Bat",
+    "blowingStyle": "Right-Arm-first-Bowling",
     "price": 1450000,
     "isSelected": false
   },
   {
     "id": 5,
     "name": "Shakib Al Hasan",
-    "image": "https://randomuser.me/api/portraits/men/15.jpg",
+    "image": "https://i.ibb.co.com/QgnDtHZ/gettyimages-1154617273-612x612.jpg",
     "country": "Bangladesh",
     "role": "All-Rounder",
     "rating": 93,
     "battingStyle": "Left-Hand-Bat",
+    "blowingStyle": "Left-Arm-Bowling",
     "price": 1300000,
     "isSelected": false
   },
