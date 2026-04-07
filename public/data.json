@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "name": "Virat Kohli",
+    "image": "https://randomuser.me/api/portraits/men/11.jpg",
+    "country": "India",
+    "role": "Batsman",
+    "rating": 95,
+    "battingStyle": "Right-Hand-Bat",
+    "price": 1500000,
+    "isSelected": false
+  },
+  {
+    "id": 2,
+    "name": "Rohit Sharma",
+    "image": "https://randomuser.me/api/portraits/men/12.jpg",
+    "country": "India",
+    "role": "Batsman",
+    "rating": 93,
+    "battingStyle": "Right-Hand-Bat",
+    "price": 1400000,
+    "isSelected": false
+  },
+  {
+    "id": 3,
+    "name": "Babar Azam",
+    "image": "https://randomuser.me/api/portraits/men/13.jpg",
+    "country": "Pakistan",
+    "role": "Batsman",
+    "rating": 92,
+    "battingStyle": "Right-Hand-Bat",
+    "price": 1400000,
+    "isSelected": false
+  },
+  {
+    "id": 4,
+    "name": "Ben Stokes",
+    "image": "https://randomuser.me/api/portraits/men/14.jpg",
+    "country": "England",
+    "role": "All-Rounder",
+    "rating": 90,
+    "battingStyle": "Left-Hand-Bat",
+    "price": 1450000,
+    "isSelected": false
+  },
+  {
+    "id": 5,
+    "name": "Shakib Al Hasan",
+    "image": "https://randomuser.me/api/portraits/men/15.jpg",
+    "country": "Bangladesh",
+    "role": "All-Rounder",
+    "rating": 93,
+    "battingStyle": "Left-Hand-Bat",
+    "price": 1300000,
+    "isSelected": false
+  },
+  {
+    "id": 6,
+    "name": "Kane Williamson",
+    "image": "https://randomuser.me/api/portraits/men/16.jpg",
+    "country": "New Zealand",
+    "role": "Batsman",
+    "rating": 91,
+    "battingStyle": "Right-Hand-Bat",
+    "price": 1350000,
+    "isSelected": false
+  },
+  {
+    "id": 7,
+    "name": "Joe Root",
+    "image": "https://randomuser.me/api/portraits/men/17.jpg",
+    "country": "England",
+    "role": "Batsman",
+    "rating": 89,
+    "battingStyle": "Right-Hand-Bat",
+    "price": 1250000,
+    "isSelected": false
+  },
+  {
+    "id": 8,
+    "name": "Steve Smith",
+    "image": "https://randomuser.me/api/portraits/men/18.jpg",
+    "country": "Australia",
+    "role": "Batsman",
+    "rating": 94,
+    "battingStyle": "Right-Hand-Bat",
+    "price": 1450000,
+    "isSelected": false
+  },
+  {
+    "id": 9,
+    "name": "David Warner",
+    "image": "https://randomuser.me/api/portraits/men/19.jpg",
+    "country": "Australia",
+    "role": "Batsman",
+    "rating": 88,
+    "battingStyle": "Left-Hand-Bat",
+    "price": 1200000,
+    "isSelected": false
+  },
+  {
+    "id": 10,
+    "name": "Jasprit Bumrah",
+    "image": "https://randomuser.me/api/portraits/men/20.jpg",
+    "country": "India",
+    "role": "Bowler",
+    "rating": 91,
+    "battingStyle": "Right-Hand-Bat",
+    "price": 1350000,
+    "isSelected": false
+  },
+  {
+    "id": 11,
+    "name": "Trent Boult",
+    "image": "https://randomuser.me/api/portraits/men/21.jpg",
+    "country": "New Zealand",
+    "role": "Bowler",
+    "rating": 88,
+    "battingStyle": "Right-Hand-Bat",
+    "price": 1200000,
+    "isSelected": false
+  },
+  {
+    "id": 12,
+    "name": "Pat Cummins",
+    "image": "https://randomuser.me/api/portraits/men/22.jpg",
+    "country": "Australia",
+    "role": "Bowler",
+    "rating": 90,
+    "battingStyle": "Right-Hand-Bat",
+    "price": 1300000,
+    "isSelected": false
+  },
+  {
+    "id": 13,
+    "name": "Jos Buttler",
+    "image": "https://randomuser.me/api/portraits/men/23.jpg",
+    "country": "England",
+    "role": "Wicket-Keeper",
+    "rating": 91,
+    "battingStyle": "Right-Hand-Bat",
+    "price": 1350000,
+    "isSelected": false
+  },
+  {
+    "id": 14,
+    "name": "Quinton de Kock",
+    "image": "https://randomuser.me/api/portraits/men/24.jpg",
+    "country": "South Africa",
+    "role": "Wicket-Keeper",
+    "rating": 89,
+    "battingStyle": "Left-Hand-Bat",
+    "price": 1250000,
+    "isSelected": false
+  },
+  {
+    "id": 15,
+    "name": "KL Rahul",
+    "image": "https://randomuser.me/api/portraits/men/25.jpg",
+    "country": "India",
+    "role": "Wicket-Keeper",
+    "rating": 90,
+    "battingStyle": "Right-Hand-Bat",
+    "price": 1300000,
+    "isSelected": false
+  },
+  {
+    "id": 16,
+    "name": "Hardik Pandya",
+    "image": "https://randomuser.me/api/portraits/men/26.jpg",
+    "country": "India",
+    "role": "All-Rounder",
+    "rating": 92,
+    "battingStyle": "Right-Hand-Bat",
+    "price": 1400000,
+    "isSelected": false
+  },
+  {
+    "id": 17,
+    "name": "Rashid Khan",
+    "image": "https://randomuser.me/api/portraits/men/27.jpg",
+    "country": "Afghanistan",
+    "role": "Bowler",
+    "rating": 93,
+    "battingStyle": "Right-Hand-Bat",
+    "price": 1400000,
+    "isSelected": false
+  },
+  {
+    "id": 18,
+    "name": "Mushfiqur Rahim",
+    "image": "https://randomuser.me/api/portraits/men/28.jpg",
+    "country": "Bangladesh",
+    "role": "Wicket-Keeper",
+    "rating": 88,
+    "battingStyle": "Right-Hand-Bat",
+    "price": 1200000,
+    "isSelected": false
+  },
+  {
+    "id": 19,
+    "name": "Mitchell Starc",
+    "image": "https://randomuser.me/api/portraits/men/29.jpg",
+    "country": "Australia",
+    "role": "Bowler",
+    "rating": 91,
+    "battingStyle": "Left-Hand-Bat",
+    "price": 1350000,
+    "isSelected": false
+  },
+  {
+    "id": 20,
+    "name": "Faf du Plessis",
+    "image": "https://randomuser.me/api/portraits/men/30.jpg",
+    "country": "South Africa",
+    "role": "Batsman",
+    "rating": 87,
+    "battingStyle": "Right-Hand-Bat",
+    "price": 1150000,
+    "isSelected": false
+  }
+]
