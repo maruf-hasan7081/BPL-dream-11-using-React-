@@ -61,7 +61,7 @@
   {
     "id": 6,
     "name": "Kane Williamson",
-    "image": "https://randomuser.me/api/portraits/men/16.jpg",
+    "image": "https://i.ibb.co.com/LX2MqTDt/4-KWFF8-Y-240114-NZv-Pakistan-088-JPG.webp",
     "country": "New Zealand",
     "role": "Batsman",
     "rating": 91,
@@ -72,7 +72,7 @@
   {
     "id": 7,
     "name": "Joe Root",
-    "image": "https://randomuser.me/api/portraits/men/17.jpg",
+    "image": "https://i.ibb.co.com/ycg46CpQ/root-finally-scores-an-ashes-century-for-england.avif",
     "country": "England",
     "role": "Batsman",
     "rating": 89,
@@ -83,7 +83,7 @@
   {
     "id": 8,
     "name": "Steve Smith",
-    "image": "https://randomuser.me/api/portraits/men/18.jpg",
+    "image": "https://i.ibb.co.com/LhshnF6F/3b647260-f060-11ef-bd1b-d536627785f2.jpg",
     "country": "Australia",
     "role": "Batsman",
     "rating": 94,
@@ -94,7 +94,7 @@
   {
     "id": 9,
     "name": "David Warner",
-    "image": "https://randomuser.me/api/portraits/men/19.jpg",
+    "image": "https://i.ibb.co.com/0yrsqgK1/david-warner-sa.jpg",
     "country": "Australia",
     "role": "Batsman",
     "rating": 88,
@@ -105,7 +105,7 @@
   {
     "id": 10,
     "name": "Jasprit Bumrah",
-    "image": "https://randomuser.me/api/portraits/men/20.jpg",
+    "image": "https://i.ibb.co.com/hxLJF4Dp/1200041022120709.webp",
     "country": "India",
     "role": "Bowler",
     "rating": 91,
@@ -116,7 +116,7 @@
   {
     "id": 11,
     "name": "Trent Boult",
-    "image": "https://randomuser.me/api/portraits/men/21.jpg",
+    "image": "https://i.ibb.co.com/dwHpDyyK/Trent-Boult-2011-Test-record.jpg",
     "country": "New Zealand",
     "role": "Bowler",
     "rating": 88,
@@ -127,18 +127,19 @@
   {
     "id": 12,
     "name": "Pat Cummins",
-    "image": "https://randomuser.me/api/portraits/men/22.jpg",
+    "image": "https://i.ibb.co.com/tp46ZhBm/2292.webp",
     "country": "Australia",
     "role": "Bowler",
     "rating": 90,
     "battingStyle": "Right-Hand-Bat",
+    "blowingStyle": "Right-Arm-Bowling",
     "price": 1300000,
     "isSelected": false
   },
   {
     "id": 13,
     "name": "Jos Buttler",
-    "image": "https://randomuser.me/api/portraits/men/23.jpg",
+    "image": "https://i.ibb.co.com/Kc9s8GL6/5035.webp",
     "country": "England",
     "role": "Wicket-Keeper",
     "rating": 91,
@@ -149,7 +150,7 @@
   {
     "id": 14,
     "name": "Quinton de Kock",
-    "image": "https://randomuser.me/api/portraits/men/24.jpg",
+    "image": "https://i.ibb.co.com/Kj6SfFhZ/412614.webp",
     "country": "South Africa",
     "role": "Wicket-Keeper",
     "rating": 89,
@@ -160,7 +161,7 @@
   {
     "id": 15,
     "name": "KL Rahul",
-    "image": "https://randomuser.me/api/portraits/men/25.jpg",
+    "image": "https://i.ibb.co.com/XfKYRYQS/IMG-1844.jpg",
     "country": "India",
     "role": "Wicket-Keeper",
     "rating": 90,
@@ -171,18 +172,19 @@
   {
     "id": 16,
     "name": "Hardik Pandya",
-    "image": "https://randomuser.me/api/portraits/men/26.jpg",
+    "image": "https://i.ibb.co.com/CNJ5r1n/hardik-pandya-1.webp",
     "country": "India",
     "role": "All-Rounder",
     "rating": 92,
     "battingStyle": "Right-Hand-Bat",
+    "blowingStyle": "Right-Arm-Bowling",
     "price": 1400000,
     "isSelected": false
   },
   {
     "id": 17,
     "name": "Rashid Khan",
-    "image": "https://randomuser.me/api/portraits/men/27.jpg",
+    "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWI3YWNhMmIwLTAyZDUtMTFmMS1hYzU3LTliZmRiNjNlNjk3NS5qcGc=",
     "country": "Afghanistan",
     "role": "Bowler",
     "rating": 93,
@@ -193,7 +195,7 @@
   {
     "id": 18,
     "name": "Mushfiqur Rahim",
-    "image": "https://randomuser.me/api/portraits/men/28.jpg",
+    "image": "https://en.chandpurtimes.com/wp-content/uploads/2021/06/mushfiq.jpg",
     "country": "Bangladesh",
     "role": "Wicket-Keeper",
     "rating": 88,
@@ -204,7 +206,7 @@
   {
     "id": 19,
     "name": "Mitchell Starc",
-    "image": "https://randomuser.me/api/portraits/men/29.jpg",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/288900/288950.4.jpg",
     "country": "Australia",
     "role": "Bowler",
     "rating": 91,
@@ -215,12 +217,56 @@
   {
     "id": 20,
     "name": "Faf du Plessis",
-    "image": "https://randomuser.me/api/portraits/men/30.jpg",
+    "image": "https://www.icccricketschedule.com/_image/?href=https%3A%2F%2Fimg.icccricketschedule.com%2Fuploads%2Fimages%2F202601%2Ffaf-du-plessis_1200x675_f57f50.jpg&w=1200&h=675&q=75&f=webp",
     "country": "South Africa",
     "role": "Batsman",
     "rating": 87,
     "battingStyle": "Right-Hand-Bat",
     "price": 1150000,
     "isSelected": false
-  }
+  },
+  {
+  "id": 21,
+  "name": "Mustafizur Rahman",
+  "image": "https://static.toiimg.com/thumb/msid-124096462,imgsize-113336,width-400,resizemode-4/emirates-asia-cup-cricket.jpg",
+  "country": "Bangladesh",
+  "role": "Bowler",
+  "rating": 89,
+  "battingStyle": "Left-Hand-Bat",
+  "price": 1200000,
+  "isSelected": false
+},
+{
+  "id": 22,
+  "name": "Josh Hazlewood",
+  "image": "https://www.wisden.com/static-assets/waf-images/fa/75/5a/16-9/226526_GettyImages-1348205517-scaled-e1637171538226.jpg?v=23.07&w=600",
+  "country": "Australia",
+  "role": "Bowler",
+  "rating": 90,
+  "battingStyle": "Right-Hand-Bat",
+  "price": 1350000,
+  "isSelected": false
+},
+{
+  "id": 23,
+  "name": "Rishad Hossain",
+  "image": "https://admin.dailycricket.com.bd/storage/posts/1525423175.jpg",
+  "country": "Bangladesh",
+  "role": "All-Rounder",
+  "rating": 82,
+  "battingStyle": "Right-Hand-Bat",
+  "price": 900000,
+  "isSelected": false
+},
+{
+  "id": 24,
+  "name": "Tanzid Hasan Tamim",
+  "image": "https://api.bdcrictime.com/tanzid-tamim-batting-t20i-03_12_2025.jpg",
+  "country": "Bangladesh",
+  "role": "Batsman",
+  "rating": 85,
+  "battingStyle": "Left-Hand-Bat",
+  "price": 1000000,
+  "isSelected": false
+}
 ]
