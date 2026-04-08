@@ -1,26 +1,29 @@
 import React from 'react';
 
-const Nav = () => {
+const Nav = ({ coins }) => {
     return (
   <div className="navbar bg-base-100 shadow-sm w-[90%] mx-auto">
+
   <div className="navbar-start">
-    <div>
-        
-    </div>
-    <img src="/src/assets/logo.png" alt="" />
+    <img src="../../assets/logo.png" alt="" className="w-16" />
   </div>
-  <div className="navbar-center hidden lg:flex">
-    
-  </div>
-  <div className="navbar-end">
-    <ul className="menu menu-horizontal px-1 mr-10 gap-10 ">
-      <li><a>Home</a></li>
-      <li><a >Fixture</a></li>
+
+  <div className="navbar-center">
+<ul className="menu menu-horizontal gap-10 text-lg hidden sm:flex">
+          <li><a>Home</a></li>
+      <li><a>Fixture</a></li>
       <li><a>Teams</a></li>
-      <li><a>Scedules</a></li>
+      <li><a>Schedules</a></li>
     </ul>
-    <a className="btn"><span className="text-xl font-bold">0 Coin</span><img src="/src/assets/dollar_1.png" alt="Coin" /></a>
   </div>
+
+  <div className="navbar-end">
+    <a className="btn flex items-center gap-2">
+      <span className="text-xl font-bold">${coins} Coin</span>
+      <img src="../../assets/dollar_1.png" alt="Coin" className="w-5" />
+    </a>
+  </div>
+
 </div>
     );
 };

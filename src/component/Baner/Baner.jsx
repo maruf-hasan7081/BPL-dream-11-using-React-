@@ -13,7 +13,7 @@ const Baner = () => {
             <div className="hero-overlay bg-opacity-100"></div>
             <div className="hero-content text-neutral-content text-center">
                 <div className="">
-                    <p className='text-center'><img className='mx-auto' src="/src/assets/banner-main.png" alt="" /></p>
+                    <p className='text-center'><img className='mx-auto' src="../../assets/banner-main.png" alt="" /></p>
                     <h1 className=" text-[40px] font-bold">Assemble Your Ultimate Dream 11 Cricket Team</h1>
                     <p className="mb-5">
                         Beyond Boundaries Beyond Limits
