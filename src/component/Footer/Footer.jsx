@@ -6,7 +6,7 @@ const Footer = () => {
             
             
             <nav>
-                                <p className='text-center'><img className='mx-auto' src="/src/assets/logo-footer.png" alt="" /></p>
+                                <p className='text-center'><img className='mx-auto' src="/logo-footer.png" alt="" /></p>
 
                 <h6 className="footer-title">Services</h6>
                 <a className="link link-hover">Branding</a>

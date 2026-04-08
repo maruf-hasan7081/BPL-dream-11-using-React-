@@ -4,6 +4,8 @@ import Baner from './component/Baner/Baner'
 import Footer from './component/Footer/Footer'
 import Nav from './component/navber/nav'
 import Player from './component/players/Player'
+import { ToastContainer } from 'react-toastify'
+import 'react-toastify/dist/ReactToastify.css'
 
 const FatchPlayer = async () => {
   const res = await fetch('/data.json')
@@ -30,6 +32,12 @@ function App() {
       </Suspense>
 
       <Footer />
+
+
+
+
+
+      <ToastContainer />
     </>
   )
 }

@@ -1,27 +1,15 @@
-import React, { useState } from 'react';
+import React from 'react';
 import { FaUser } from "react-icons/fa";
 import { IoIosFlag } from "react-icons/io";
 
-const Available = ({ data, setCoins, coins }) => {
-
-    const [isSelected, setisSelected] = useState(false);
-
-    const onClickhandler = (player) => {
-
-        if (Number(coins) >= Number(player.price)) {
-            setCoins(Number(coins) - Number(player.price));
-            alert(`${player.name} has been selected!`);
-            setisSelected(true);
-        } else {
-            alert("You don't have enough coins to select this player.");
-            return;
-        }
-    }
+const Available = ({ data, handleSelectPlayer, selectedPlayers }) => {
 
     return (
         <div>
             <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10'>
                 {data.map(player => {
+                    const isSelected = selectedPlayers.some(p => p.id === player.id);
+
                     return (
                         <div key={player.id} className="card bg-base-100 w-96 shadow-sm">
 
@@ -67,9 +55,9 @@ const Available = ({ data, setCoins, coins }) => {
 
                                     <div className="card-actions justify-end">
                                         <button
-                                            className={"btn"}
-                                            onClick={() => onClickhandler(player)}
-                                            disabled={isSelected ? true : false}
+                                            className="btn"
+                                            onClick={() => handleSelectPlayer(player)}
+                                            disabled={isSelected}
                                         >
                                             {isSelected ? "Selected" : "Choose Player"}
                                         </button>
