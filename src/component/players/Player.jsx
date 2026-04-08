@@ -39,7 +39,7 @@ const Player = ({ playerpromise, setCoins, coins }) => {
     };
 
     return (
-        <div className='w-[90%] mx-auto mt-10 '>
+        <div className='w-[90%] mx-auto mt-10 mb-20 '>
             <div className='flex justify-between items-center mb-5'>
                 {tab === "available" ? (
                     <h1>Available Players : {data.length}</h1>
